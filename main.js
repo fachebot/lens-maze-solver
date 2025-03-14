@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LensFaucet迷宫寻路
-// @namespace    https://testnet.lenscan.io/faucet/
+// @namespace    https://github.com/fachebot/lens-maze-solver
 // @version      0.1
 // @description  Lens测试网水龙头迷宫验证码自动寻路
 // @author       pan
