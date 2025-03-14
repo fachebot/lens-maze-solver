@@ -1,5 +1,6 @@
 # lens-maze-solver
-<img width="1161" alt="3" src="https://github.com/user-attachments/assets/5d8ff76d-04c4-4fcd-bb5f-ace9aa616c2e" />
+![GIF 2025-3-14 23-15-38](https://github.com/user-attachments/assets/0e940fbc-8ac9-4e35-908c-4ec1d58c1e30)
+
 
 ## 项目简介
 这是一个用于自动解决 Lens 测试网水龙头网站迷宫的油猴脚本。通过自动寻路算法，帮助用户快速通过迷宫并获取测试代币。
